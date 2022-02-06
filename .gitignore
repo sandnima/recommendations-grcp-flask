@@ -1,2 +1,4 @@
 /venv/
 /.idea/
+/*/recommendations_pb2.py
+/*/recommendations_pb2_grpc.py
